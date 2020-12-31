@@ -8,7 +8,8 @@
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
 
-    "defaultProfile": "{00000000-0000-0000-ba54-000000000002}",
+    "defaultProfile": "{00000000-0000-0000-ba54-000000000002}", //Here you can change which terminal to open by default, 
+                                                                //you just have to put the guid code of the terminal you want, in this case the "Git Bush" terminal opens by default in addition to when I press the button to open another terminal, Git Bush will also open
 
 
     // You can add more global application settings here.
@@ -29,8 +30,9 @@
         "defaults":
         {
             // Put settings here that you want to apply to all profiles.
-		"backgroundImage": "C:/Users/dsdia/Pictures/Wallpaper_Terminal/wallpaper.jpg",
-		"backgroundImageOpacity": 0.5,
+        "backgroundImage": "C:/Users/dsdia/Pictures/Wallpaper_Terminal/wallpaper.jpg", //Here you can place the path of the image that you want to place in the background
+        //"backgroundImage": "C:/Users/yourUsernamePC/Pictures/Wallpaper_Terminal/wallpaper.jpg", 
+		"backgroundImageOpacity": 0.5, //Change the opacity of the background image, it is a range from 0 to 1
 		"backgroundImageStrechMode": "fill",
 		"fontSize": 10,
 		"cursorShape": "bar",
