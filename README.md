@@ -10,6 +10,7 @@ If you want to know more about the documentation of this application I leave you
 
 https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-5-release/
 
+This is my first repository. I would appreciate if you could advise me if I could correct or improve something. I am new using GitHub, I hope you like it and do not forget to tell me about any questions, doubts or suggestions. Thank you
 
 Don't Forget to visit my social networks
 Twitter: https://twitter.com/daivdiz
